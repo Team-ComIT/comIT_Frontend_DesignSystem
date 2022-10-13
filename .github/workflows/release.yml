@@ -5,7 +5,7 @@ on:
     paths:
       - ".changeset/**"
       - "packages/**"
-    branches: main
+    branches: [ main ]
   
 jobs:
   build:
