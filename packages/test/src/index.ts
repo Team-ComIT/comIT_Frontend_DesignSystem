@@ -5,3 +5,7 @@ export const test = (s: string) => {
 export const test2 = (n: number) => {
   return n;
 };
+
+export const test3 = () => {
+  return "test";
+};
