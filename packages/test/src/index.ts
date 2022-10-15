@@ -13,3 +13,7 @@ export const test3 = () => {
 export const test4 = () => {
   return "test2";
 };
+
+export const test5 = () => {
+  return "test2";
+};
