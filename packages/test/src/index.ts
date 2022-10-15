@@ -17,3 +17,6 @@ export const test4 = () => {
 export const test5 = () => {
   return "test2";
 };
+export const test6 = () => {
+  return "test5";
+};
