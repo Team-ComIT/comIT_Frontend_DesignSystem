@@ -9,3 +9,7 @@ export const test2 = (n: number) => {
 export const test3 = () => {
   return "test";
 };
+
+export const test4 = () => {
+  return "test2";
+};
